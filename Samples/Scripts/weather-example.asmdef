@@ -1,0 +1,16 @@
+{
+    "name": "weather-example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:402409f79e1d483aa673b9c5ec780da7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

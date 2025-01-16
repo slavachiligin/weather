@@ -1,0 +1,14 @@
+{
+  "name": "com.slavachiligin.weather",
+  "version": "1.0.0",
+  "displayName": "Weather service",
+  "description": "This is test task.",
+  "unity": "2019.2",
+  "keywords": [
+    "weather"
+  ],
+  "author": {
+    "name": "slavachiligin",
+    "email": "slavachiligin@gmail.com"
+  }
+}
