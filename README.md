@@ -40,7 +40,7 @@ This Unity package provides a framework for integrating weather services into yo
 4. Paste the following URL:
 
    ```plaintext
-   https://github.com/your-repo/weather-service-package.git
+   https://github.com/slavachiligin/weather.git
  5. Click Add to install the package.
  
  # Quick Start
